@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --bg-color: #4379F2;
-    --primary-color: #FFEB00;
-    --secondary-color: #117554;
+    --bg-color: #f243db;
+    --primary-color: #ffea0000;
+    --secondary-color: #721175;
     --tipo-fonte: "Genos", sans-serif;
 
 }
