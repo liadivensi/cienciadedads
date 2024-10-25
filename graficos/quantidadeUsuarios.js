@@ -21,7 +21,7 @@ async function quantidadeUsuarios() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Instituições com mais alunos no mundo',
+            text: 'Marcas e crros esporivos mais compradas no mundo atualmente (2024)',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
@@ -33,7 +33,7 @@ async function quantidadeUsuarios() {
         xaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'Tipos de Instituições',
+                text: 'Tipos de marcas',
                 size: 20,
                 font: {
                     color: getCSS('--secondary-color')
@@ -43,7 +43,7 @@ async function quantidadeUsuarios() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'bilhões de alunos ativos',
+                text: 'marcas caras',
                 size:20,
                 font: {
                     color: getCSS('--secondary-color')
