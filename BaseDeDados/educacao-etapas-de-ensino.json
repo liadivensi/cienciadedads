@@ -1,11 +1,11 @@
     {
-        "Escolas Primárias": 2.5e9,
-        "Escolas Secundárias": 1.8e9,
-        "Faculdades": 0.7e9,
-        "Universidades": 0.6e9,
-        "Centro de Formação Proissional": 0.4e9,
-        "Cursos Online": 1.0e9,
-        "Educação de Adultos": 0.3e9,
-        "Outros": 0.1e9
+        "Ferrari": 2.5e9,
+        "Lamborghini": 1.8e9,
+        "MacLaren": 0.7e9,
+        "Bugatti": 0.6e9,
+        "Aston Martin": 0.4e9,
+        "Porsche": 1.0e9,
+        "Koenigsegg": 0.3e9,
+        "Nissan (com a linha GTR-R)": 0.1e9
     
     }
